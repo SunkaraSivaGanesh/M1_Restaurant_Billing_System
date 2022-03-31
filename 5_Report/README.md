@@ -1,1 +1,1 @@
-# M1_General_Store_Bill
+# M1_Restaurant_Billing_System
