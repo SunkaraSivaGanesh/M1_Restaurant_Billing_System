@@ -1,0 +1,1 @@
+void orderbill(int adultNumber, int childNumber, int studentNumber,double totalPriceForAdult,double totalPriceForChildren,double totalPriceForStudent,double allPayment);
