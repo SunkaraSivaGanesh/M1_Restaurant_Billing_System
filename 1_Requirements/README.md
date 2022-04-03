@@ -4,10 +4,15 @@
 
 # Features
 Ease of Performance Tracking.
+
 Cloud Data Storage.
-Reduce Manual Calculations and Errors,
-Multiple Payment mode 
+
+Reduce Manual Calculations and Errors.
+
+Multiple Payment mode.
+
 It Increases the Security.
+
 It avoids Paper work.
 
 # 4W's and 1'H
