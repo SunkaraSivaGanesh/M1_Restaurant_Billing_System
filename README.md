@@ -13,3 +13,5 @@
 [![Build_CI - Linux](https://github.com/SunkaraSivaGanesh/M1_Restaurant_Billing_System/actions/workflows/Linux.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M1_Restaurant_Billing_System/actions/workflows/Linux.yml)
 
 [![Bulid CI - windows](https://github.com/SunkaraSivaGanesh/M1_Restaurant_Billing_System/actions/workflows/Windows.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M1_Restaurant_Billing_System/actions/workflows/Windows.yml)
+
+[![Analysis](https://github.com/SunkaraSivaGanesh/M1_Restaurant_Billing_System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/SunkaraSivaGanesh/M1_Restaurant_Billing_System/actions/workflows/Analysis.yml)
